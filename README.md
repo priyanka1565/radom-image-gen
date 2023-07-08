@@ -1,1 +1,0 @@
-# radom-image-gen
